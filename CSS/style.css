@@ -1,0 +1,41 @@
+/* buena practica solo para testear que si esta aplicando el link */
+/* body{
+    background-color: brown;
+} */
+
+.letra-cur {
+    font-style: italic;
+    font-family: Times New Roman;
+}
+
+/* Estilo para todos los (H) titulos */
+.titulos-generales {
+    font-family: Times New Roman;
+    color: #005677;
+    background: #C4C4C4;
+}
+
+.logo {
+    background: #313A89;
+    text-align: center;
+
+}
+
+h1.titulos-generales {
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2.titulos-generales {
+    font-size: 20px;
+    line-height: 16.94px;
+}
+
+/* Estilo para el footer*/
+.footer {
+    text-align: center;
+    color: white;
+    background-color: #005677;
+    letter-spacing: 9px;   
+}
